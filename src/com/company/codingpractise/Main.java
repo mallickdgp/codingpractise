@@ -15,6 +15,11 @@ public class Main {
       //  OddOneOutCodility.getTheOddOne();
         // FrogJumpCodility.countTheJumps();
 
-        MissingElementCodility.findMissingElement();
+       // MissingElementCodility.findMissingElement();
+       // IntersectingCirclesCodility.findIntersections();
+
+       // StringCompareRockstar.solution();
+
+        BugFixRockstar.fixBug();
     }
 }
