@@ -20,6 +20,8 @@ public class Main {
 
        // StringCompareRockstar.solution();
 
-        BugFixRockstar.fixBug();
+       // BugFixRockstar.fixBug();
+
+        CountingArrayCodility.countOperations();
     }
 }
