@@ -22,6 +22,8 @@ public class Main {
 
        // BugFixRockstar.fixBug();
 
-        CountingArrayCodility.countOperations();
+       // CountingArrayCodility.countOperations();
+
+        MissingIntegerCodility.findMissingInteger();
     }
 }
