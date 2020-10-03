@@ -24,6 +24,12 @@ public class Main {
 
        // CountingArrayCodility.countOperations();
 
-        MissingIntegerCodility.findMissingInteger();
+      //  MissingIntegerCodility.findMissingInteger();
+
+      //  TieingRopesCodility.countRopeTies();
+
+       // MaxOverLappingSegmentsCodility.findMaxSegments();
+
+        MaxBottlesHackerE.findMaxBottles();
     }
 }
