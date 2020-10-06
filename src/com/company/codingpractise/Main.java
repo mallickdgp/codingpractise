@@ -35,5 +35,9 @@ public class Main {
      //   MaximumSliceSumCodility.findMaxAumSlice();
 
         MaxProfitCodility.findMaxProfit();
+       // MaxBottlesHackerE.findMaxBottles();
+       // MissingIntegerCodility.findMissingInteger();
+
+        DominatorCodility.findDominator();
     }
 }
