@@ -30,6 +30,10 @@ public class Main {
 
        // MaxOverLappingSegmentsCodility.findMaxSegments();
 
-        MaxBottlesHackerE.findMaxBottles();
+      //  MaxBottlesHackerE.findMaxBottles();
+
+     //   MaximumSliceSumCodility.findMaxAumSlice();
+
+        MaxProfitCodility.findMaxProfit();
     }
 }
